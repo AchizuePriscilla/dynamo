@@ -21,14 +21,14 @@ flutter pub get
 - Start an Android emulator or connect a physical Android device.
 - Run:
 ```sh
-flutter run -d android
+flutter run 
 ```
 
 ### 3. Running on iOS
 - Start an iOS simulator or connect a physical iOS device.
 - Run:
 ```sh
-flutter run -d ios
+flutter run
 ```
 
 > **Note:** For iOS, you may need to open the `ios/` folder in Xcode and set up signing before running on a real device.
