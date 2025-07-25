@@ -1,10 +1,10 @@
-# dynamo
+# Dynamo
 
-An application dynamically updates the UI based on human-like prompts .
+A Flutter application that dynamically updates the UI based on human-like prompts.
 
 ## Building and Testing the Application
 
-This project is a Flutter app. Below are instructions for building and testing on **Android** and **iOS** only.
+Below are instructions for building and testing on **Android** and **iOS** only.
 
 ### Prerequisites
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) installed
