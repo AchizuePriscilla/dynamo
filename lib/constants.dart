@@ -10,8 +10,7 @@ const List<String> surprisePrompts = [
   'change the background color to blue',
   'change app bar color to yellow',
   'make the dynamo image bigger',
-  'hide the welcome message',
-  'reset',
+  'hide the welcome message'
 ];
 
 // Returns a random PromptEffect from the surprisePrompts list.
